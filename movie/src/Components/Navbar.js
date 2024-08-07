@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import react from "react-router-dom";
 
-
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
